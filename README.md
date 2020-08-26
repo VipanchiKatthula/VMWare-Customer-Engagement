@@ -6,10 +6,9 @@
 3. Suggest future extensions to this model that the business can incorporate to improve its performance.
 
 ## Data and Description
-The data consists of 700+ variables from 500+ potential customers from VMWare's web analytics team.
+The data consists of 700+ variables from 500+ potential customers from VMWare's web analytics team. As the dataset is confidential, I cannot share the data I received here on GitHub as opensource. However, you can always buy the project from ISB's publication content sharing website.
 
 ## Analysis
-The entire code for data cleaning
-Selected variables through thorough exploratory analysis. Then cleaned the data in R and the code file can be accessed [here](https://github.com/VipanchiKatthula/VMWare-Customer-Engagement/blob/master/code/Project%20Code.R)
+Selected significant variables through thorough exploratory analysis. Then cleaned the data in R and the code file can be accessed [here](https://github.com/VipanchiKatthula/VMWare-Customer-Engagement/blob/master/code/Project%20Code.R)
 
 
