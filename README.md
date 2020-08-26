@@ -1,2 +1,2 @@
-# VMWare-Customer-Engagement
+# VM Ware-Customer-Engagement
 Repo to share academic projects
