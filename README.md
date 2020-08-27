@@ -11,11 +11,11 @@ Project is created with:
 R Programming - **SMOTE, LiblineaR, ggplot2, randomForest, RRF, gbm, xgboost**
 
 ## ALGORITHMS
-SMOTE
-Random forest
-LASSO
-Ridge Regression
-XGBoost
+* SMOTE
+* Random forest
+* LASSO
+* Ridge Regression
+* XGBoost
 
 ## DATA
 The data consists of 700+ variables from 500+ potential customers from VMWare's web analytics team. As the dataset is confidential, I cannot share the data I received here on GitHub as opensource. However, you can always buy the project from ISB's publication content sharing website.
