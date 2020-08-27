@@ -14,8 +14,10 @@ Dealth with null values and variable data types in order to process the input da
 ## Random Forest Model - Variable selection using Importance
 Used the Random Forest model's capability to show the variable importance to identify the significant variables from the variables selected after the exploratory analysis.
 ![GitHub Logo](/images/RF_model.PNG)
+
+The importance is calculated through the mean decrease in gini index value and below are the top variables that came out significant.
 ![GitHub Logo](/images/significant_variables.PNG)
 
 ## LASSO Regression Model
-
-![GitHub Logo](images/LASSO Model.PNG) 
+We built a Lasso regression model using the top 200 variables that came out significant from the Random Forest model. We performed Cross-validation to get the best cost paramater for the LASSO regression.
+![GitHub Logo](images/LASSO_Model.PNG) 
