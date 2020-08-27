@@ -37,7 +37,7 @@ We built a Lasso regression model using the top 200 variables that came out sign
 
 ## XGBoost Model
 We also built XGBoost model using the top 200 variables from the Random Forest model. The XGBoost model outperformed the LASSO regression in terms of accuracy and recall by 6% and 4% but understanding the model parameters is difficult. So, we went ahead with the Random forest model to better understand the model variables.
-![GitHub Logo](images/Xgboost.PNG) 
+![GitHub Logo](images/Xgboostresult.PNG) 
 
 ## RESULTS and CONCLUSION
 1. The top most variables that control the user conversion from visitor to a customer are **product page views, first data of download, top resources and pdf downloads**. 
