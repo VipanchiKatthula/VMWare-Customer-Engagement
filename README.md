@@ -5,6 +5,18 @@
 2. Prove that the model could be implemented in the real world so that the business could be convinced of the benifits.
 3. Suggest future extensions to this model that the business can incorporate to improve its performance.
 
+## TECHNOLOGIES
+Project is created with:
+
+Python - **NLTK, Collections, sklearn, numpy, pandas, matplotlib.pyplot, glove**
+
+## ALGORITHMS
+SMOTE
+Random forest
+LASSO
+Ridge Regression
+XGBoost
+
 ## Data and Description
 The data consists of 700+ variables from 500+ potential customers from VMWare's web analytics team. As the dataset is confidential, I cannot share the data I received here on GitHub as opensource. However, you can always buy the project from ISB's publication content sharing website.
 
