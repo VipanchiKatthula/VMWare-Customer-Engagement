@@ -1,6 +1,6 @@
 # VM Ware - Customer-Engagement Improvement
 
-### Table of contents
+### TABLE OF CONTENTS
 * [Objective](#objective)
 * [Technologies](#technologies)
 * [Algorithms](#algorithms)
