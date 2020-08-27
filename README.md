@@ -21,3 +21,9 @@ The importance is calculated through the mean decrease in gini index value and b
 ## LASSO Regression Model
 We built a Lasso regression model using the top 200 variables that came out significant from the Random Forest model. We performed Cross-validation to get the best cost paramater for the LASSO regression.
 ![GitHub Logo](images/LASSO_Model.PNG) 
+
+## RESULTS and CONCLUSION
+1. The top most variables that control the user conversion from visitor to a customer are **product page views, first data of download, top resources and pdf downloads**. 
+2. By mainly focusing on the visitors that view a product page more than the mean page views, the conversion rate of the comapny can be highly increased. 
+3. If a user is downloading more pdfs from the website, then it means that he is interested in the coresponding product as these pdfs are mostly product manuals and inromation brochures. 
+4. The performance of the model can be imprved by understanding the user-behavior of more and more users. The limitation currently on the project is that the data was only for ~500 users. This can be overcome by training the model on more users.
