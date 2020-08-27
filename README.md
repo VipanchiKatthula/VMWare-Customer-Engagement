@@ -16,6 +16,7 @@ Used the Random Forest model's capability to show the variable importance to ide
 ![GitHub Logo](/images/RF_model.PNG)
 
 The importance is calculated through the mean decrease in gini index value and below are the top variables that came out significant.
+
 ![GitHub Logo](/images/significant_variables.PNG)
 
 ## LASSO Regression Model
