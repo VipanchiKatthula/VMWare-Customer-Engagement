@@ -5,19 +5,10 @@
 * [Technologies](#technologies)
 * [Algorithms](#algorithms)
 * [Approach](#approach)
+* [Data](#data)
+* [Results and conclusion](#results)
 
-### Introduction
-
-[Movie Recommendation System](https://github.com/sruthi1014/Movie-Recommendation-System/blob/master/movie_recommendationsystem.ipynb) file has the code for the analysis
-
-### Technologies
-Project is created with:
-* Python
-* **Packages**  PySpark, Pandas
-* Explicit  **Datasource**
-* movie lens dataset
-
-## Objective - Improving customer engagement at VMWare through Analytics
+## OBJECTIVE - Improving customer engagement at VMWare through Analytics
 1. To find a model with parameters to show the estimates of performance that could be shared with business.
 2. Prove that the model could be implemented in the real world so that the business could be convinced of the benifits.
 3. Suggest future extensions to this model that the business can incorporate to improve its performance.
