@@ -1,13 +1,15 @@
 # VM Ware-Customer-Engagement
 
 ### Table of contents
-* [Objective](#introduction)
+* [Objective](#objective)
 * [Technologies](#technologies)
 * [Algorithms](#algorithms)
 * [Data](#data)
-* [Results and conclusion](#results and conclusion)
+* [Analysis](#analysis)
+* [Results](#results)
 
-## OBJECTIVE - Improving customer engagement at VMWare through Analytics
+## OBJECTIVE 
+## Improving customer engagement at VMWare through Analytics
 1. To find a model with parameters to show the estimates of performance that could be shared with business.
 2. Prove that the model could be implemented in the real world so that the business could be convinced of the benifits.
 3. Suggest future extensions to this model that the business can incorporate to improve its performance.
@@ -46,7 +48,7 @@ We built a Lasso regression model using the top 200 variables that came out sign
 We also built XGBoost model using the top 200 variables from the Random Forest model. The XGBoost model outperformed the LASSO regression in terms of accuracy and recall by 6% and 4% but understanding the model parameters is difficult. So, we went ahead with the Random forest model to better understand the model variables.
 ![GitHub Logo](images/Xgboostresult.PNG) 
 
-## RESULTS and CONCLUSION
+## RESULTS
 1. The top most variables that control the user conversion from visitor to a customer are **product page views, first data of download, top resources and pdf downloads**. 
 2. By mainly focusing on the visitors that view a product page more than the mean page views, the conversion rate of the comapny can be highly increased. 
 3. If a user is downloading more pdfs from the website, then it means that he is interested in the coresponding product as these pdfs are mostly product manuals and inromation brochures. 
