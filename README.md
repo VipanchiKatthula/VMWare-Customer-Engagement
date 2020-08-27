@@ -17,7 +17,7 @@
 ## TECHNOLOGIES
 Project is created with:
 
-R Programming - **SMOTE, LiblineaR, ggplot2, randomForest, RRF, gbm, xgboost**
+* R Programming - **SMOTE, LiblineaR, ggplot2, randomForest, RRF, gbm, xgboost**
 
 ## ALGORITHMS
 * SMOTE
