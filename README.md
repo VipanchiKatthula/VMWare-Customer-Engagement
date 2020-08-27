@@ -8,7 +8,7 @@
 ## TECHNOLOGIES
 Project is created with:
 
-Python - **NLTK, Collections, sklearn, numpy, pandas, matplotlib.pyplot, glove**
+R Programming - **SMOTE, LiblineaR, ggplot2, randomForest, RRF, gbm, xgboost**
 
 ## ALGORITHMS
 SMOTE
@@ -17,10 +17,10 @@ LASSO
 Ridge Regression
 XGBoost
 
-## Data and Description
+## DATA
 The data consists of 700+ variables from 500+ potential customers from VMWare's web analytics team. As the dataset is confidential, I cannot share the data I received here on GitHub as opensource. However, you can always buy the project from ISB's publication content sharing website.
 
-## Analysis
+## ANALYSIS
 Dealth with null values and variable data types in order to process the input data in R. Selected significant variables through thorough exploratory analysis. The cleaned the data in R and the code file can be accessed [here](https://github.com/VipanchiKatthula/VMWare-Customer-Engagement/blob/master/code/Project%20Code.R)
 
 ## Random Forest Model - Variable selection using Importance
@@ -34,6 +34,10 @@ The importance is calculated through the mean decrease in gini index value and b
 ## LASSO Regression Model
 We built a Lasso regression model using the top 200 variables that came out significant from the Random Forest model. We performed Cross-validation to get the best cost paramater for the LASSO regression.
 ![GitHub Logo](images/LASSO_Model.PNG) 
+
+## XGBoost Model
+We also built XGBoost model using the top 200 variables from the Random Forest model. The XGBoost model outperformed the LASSO regression in terms of accuracy and recall by 6% and 4% but understanding the model parameters is difficult. So, we went ahead with the Random forest model to better understand the model variables.
+![GitHub Logo](images/Xgboost.PNG) 
 
 ## RESULTS and CONCLUSION
 1. The top most variables that control the user conversion from visitor to a customer are **product page views, first data of download, top resources and pdf downloads**. 
