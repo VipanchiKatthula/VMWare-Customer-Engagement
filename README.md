@@ -1,4 +1,4 @@
-# VM Ware-Customer-Engagement
+# VM Ware - Customer-Engagement Improvement
 
 ### Table of contents
 * [Objective](#objective)
