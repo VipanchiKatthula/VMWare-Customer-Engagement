@@ -4,9 +4,8 @@
 * [Objective](#introduction)
 * [Technologies](#technologies)
 * [Algorithms](#algorithms)
-* [Approach](#approach)
 * [Data](#data)
-* [Results and conclusion](#results)
+* [Results and conclusion](#results and conclusion)
 
 ## OBJECTIVE - Improving customer engagement at VMWare through Analytics
 1. To find a model with parameters to show the estimates of performance that could be shared with business.
